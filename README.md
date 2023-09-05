@@ -16,3 +16,4 @@ Goa is renowned for beautiful **beaches** it has lovely atmosphere and we can en
 * Prawn balchao
 * Rava fried fish
 
+[MyStats.md link](https://github.com/Namruth04/my2-Namruth/blob/main/MyStats.md)
