@@ -18,6 +18,6 @@ Table contains four kinds of sports that I recommend, sports are one of importan
 ---
 
 # Pithy Quotes
-```Remember to look up at the stars and not down at your feet.```  *Stephen Hawking*
+```Remember to look up at the stars and not down at your feet.```*Stephen Hawking*
 
-```Nothing in life is to be feared; it is only to be understood.``` *Marie Curie*
+```Nothing in life is to be feared; it is only to be understood.```*Marie Curie*
